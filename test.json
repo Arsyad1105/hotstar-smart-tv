@@ -8,7 +8,7 @@
       "icon": "msx-white-soft:public",
       "color": "msx-glass"
    },
-   "items": [
+   "menu": [
       {
          "title": "Link 1",
          "action": "link:https://astro.hotstar.com/#/play/1260103610?_k=asf5zn"
